@@ -1,0 +1,11 @@
+{
+  "app": {
+    "title": "Calculare IMC",
+    "weight": "Greutate(kg)",
+    "height": "Înălțime(cm)",
+    "calculate": "Calculează",
+    "resultPhrase": "IMC-ul dumneavoastră este: ",
+    "selectedLanguage": "Limbă selectată",
+    "valueError": "Trebuie să fie un număr pozitiv!"
+  }
+}

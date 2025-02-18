@@ -1,0 +1,11 @@
+{
+  "app": {
+    "title": "Berechnen Sie Ihren BMI",
+    "weight": "Gewicht(kg)",
+    "height": "Höhe(cm)",
+    "calculate": "Berechnen",
+    "resultPhrase": "Ihr BMI ist: ",
+    "selectedLanguage": "Ausgewählte Sprache",
+    "valueError": "Es sollte eine positive Zahl sein!"
+  }
+}

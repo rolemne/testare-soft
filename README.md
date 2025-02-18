@@ -1,27 +1,28 @@
 # BmiCalculator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
+Acest proiect a fost generat cu [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
 
-## Development server
+## Serverul de dezvoltare
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Pentru a rula serverul de dezvoltare executati comanda `ng serve` si navigati la `http://localhost:4200/`. Aplicatia se va reincarca automat cu noile schimbari facute in fisierele de cod sursa.
 
-## Code scaffolding
+## Generare cod
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Pentru a genera o componenta noua folositi comanda `ng generate component component-name` .
+Prin terminal, folosing `ng` se pot genera mai multe elemente. De exemplu: `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Pentru a rula un build pentru proiect. Artefactele buildului vor fi salvate in folderul `dist/`
 
-## Running unit tests
+## Rularea testelor
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Rulati comanda `ng test` pentru a executa testele via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Rularea testelor end-to-end
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Rulati comanda `ng e2e` pentru a executa testele end-to-end utilizand `Cypress`.
 
-## Further help
+## Help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Pentru mai multe informatii cu privire la Angular CLI folositi `ng help` sau accesati [Angular CLI Overview and Command Reference](https://angular.io/cli)

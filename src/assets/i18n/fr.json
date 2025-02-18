@@ -1,0 +1,11 @@
+{
+  "app": {
+    "title": "Calculer le IMC",
+    "weight": "Largeur(kg)",
+    "height": "Hauteur(cm)",
+    "calculate": "Calculer",
+    "resultPhrase": "Votre IMC est: ",
+    "selectedLanguage": "Langue sélectionnée",
+    "valueError": "Ce devrait être un nombre positif!"
+  }
+}
